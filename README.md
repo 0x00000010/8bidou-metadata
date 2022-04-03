@@ -63,7 +63,7 @@ Open the file in a text editor and make the following changes:
 - thumbnailUri
 - the uri entry in the 'formats' array
 
-**NB** do not use the ipfs.io address! It must be `ipfs://` followed by the has only
+**NB** do not use the ipfs.io address! It must be `ipfs://` followed by the hash only
 
 2. Replace all 4 instances of `tz1xYOURFULLTEZOSADDRESS` with your full tezos address (no domains, must be full tz address)
 
@@ -99,7 +99,7 @@ I'm not sure what the standard 8bidou symbol is, you can change this. Maximum 5 
 
 8. Set the type
 
-the included template has the 8x8 type set, if you mint at a different size you should update the value to reflect the type you are minting.
+The included template has the 8x8 type set, if you mint at a different size you should update the value to reflect the type you are minting.
 
 9. Update the tags array, adding or removing as needed
 
@@ -144,7 +144,7 @@ Once you can ooen the ipfs.io/ipfs/xyz link and see the contents you can use the
 ipfs://QmTHEHASHOFYOURJSONFILE
 ```
 
-Always make sure the name and deascription match!
+Always make sure the name and description match!
 
 ## ADVANCED MODE
 
