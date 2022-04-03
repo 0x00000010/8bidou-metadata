@@ -1,0 +1,52 @@
+{
+  "artifactUri": "ipfs://IMAGEIPFSADDRESS",
+  "attributes": [
+    {
+      "name": "Attribute 1",
+      "value": "Replace with your own attribute"
+    },
+    {
+      "name": "Attribute 2",
+      "value": "Replace with your own attribute and add more if you want"
+    }
+  ],
+  "creators": [
+    "tz1xYOURFULLTEZOSADDRESS"
+  ],
+  "decimals": 0,
+  "description": "Describe the token here",
+  "displayUri": "ipfs://IMAGEIPFSADDRESS",
+  "formats": [
+    {
+      "dimensions": {
+        "value": "8x8",
+        "unit": "px"
+      },
+      "mimeType": "image/png",
+      "uri": "ipfs://IMAGEIPFSADDRESS"
+    }
+  ],
+  "identifier":"8BIT",
+  "isBooleanAmount": false,
+  "minter": "tz1xYOURFULLTEZOSADDRESS",
+  "name":"Name of the token goes here",
+  "publishers": [
+    "tz1xYOURFULLTEZOSADDRESS"
+  ],
+  "rights": "(c) 2022",
+  "royalties": {
+    "decimals": 6,
+    "shares": {
+      "tz1xYOURFULLTEZOSADDRESS": "100000"
+    }
+  },
+  "shouldPreferSymbol": true,
+  "symbol":"8BIT",
+  "thumbnailUri":"ipfs:////IMAGEIPFSADDRESS",
+  "type": "8Bidou 8x8",
+  "isTransferable": true,
+  "burnable": false,
+  "limit": 0,
+  "tags": ["8x8", "your", "tags", "here"],
+  "language": "en"
+}
