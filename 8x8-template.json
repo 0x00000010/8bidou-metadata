@@ -26,7 +26,7 @@
       "uri": "ipfs://IMAGEIPFSADDRESS"
     }
   ],
-  "identifier":"8BIT",
+  "identifier":"SHIKAKU",
   "isBooleanAmount": false,
   "minter": "tz1xYOURFULLTEZOSADDRESS",
   "name":"Name of the token goes here",
@@ -41,9 +41,9 @@
     }
   },
   "shouldPreferSymbol": true,
-  "symbol":"8BIT",
+  "symbol":"SHIKAKU",
   "thumbnailUri":"ipfs:////IMAGEIPFSADDRESS",
-  "type": "8Bidou 8x8",
+  "type": "8bidou 8x8",
   "isTransferable": true,
   "burnable": false,
   "limit": 0,
